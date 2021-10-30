@@ -56,7 +56,7 @@ VAEは，ぼやける理由は潜在変数の分布や標準正規分布に従�
 - [深層学習 (機械学習プロフェッショナルシリーズ) ](https://www.kspub.co.jp/book/detail/1529021.html)
 - [GANディープラーニング実装ハンドブック](https://www.shuwasystem.co.jp/book/9784798062297.html)
   - [sample code](https://github.com/ayukat1016/gan_sample)
-  - 
+
 ## article
 - [From Autoencoder to Beta-VAE](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html)
 - [Variational Auto Encoder入門+ 教師なし学習∩deep learning∩生成モデルで特徴量作成](https://speakerdeck.com/katsunoriohnishi/variational-auto-encoderru-men)

@@ -77,7 +77,7 @@ VAEは，ぼやける理由は潜在変数の分布や標準正規分布に従�
 2 扱いやすいように対数尤度logp(x)を最大にするターゲットとする．  
 3 そのまま，logp(X)を最大にすることは積分の扱いが困難であるため，変分加減L(X,z)を最大にして下から抑えに行くことで対数尤度を再々にするパラメタを求める，  
 イェンセンの不等式[link](https://qiita.com/kenmatsu4/items/26d098a4048f84bf85fb)を利用する．  
-KL divergence(link)[https://qiita.com/kenmatsu4/items/c107bd51503462fb677f] の最小化と同値になる．  
+KL divergence[link](https://qiita.com/kenmatsu4/items/c107bd51503462fb677f) の最小化と同値になる．  
 NNの場合，損失を最小化するように学習するため，変分加減にマイナスを欠けたものを損失関数として最適化を行う．  
 
 #### Reparameterization Trick
